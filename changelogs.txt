@@ -1,3 +1,6 @@
-added NFL Universe football
-universal script is down
-updated loader
+Added rivals to script
+Fixed loader crashes
+Updated changelog on loader
+
+Removed bladeball script (updating)
+Fixed other errors/performance issues
